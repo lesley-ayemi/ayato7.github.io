@@ -1,0 +1,125 @@
+body{
+    /* background-color: rgb(107, 150, 150); */
+    /* margin: 0%;
+    padding: 0%; */
+}
+
+.bk{
+    background-image: url(../img/call-of-duty-ghosts-28414-1366x768.jpg);
+    height: 600px;
+    /* background-repeat: no-repeat; */
+    /* width: 100%; */
+    background-repeat: no-repeat;
+    padding-top: 5px;
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: dimgrey;
+    font-family: sans-serif;
+}
+#bk, h1:hover{
+    color: brown;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: 70%;
+    
+}
+
+li{
+    padding: 4px;
+    /* list-style: none; */
+}
+li, a{
+    color: white;
+}
+li, a:hover{
+    color: blueviolet;
+
+}
+li, a:visited{
+    color: green;
+}
+#nav{
+    /* margin-left: 50%; */
+    color: black;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+/*
+p{
+    width: 40%;
+    margin-left: 30%;
+}
+*/
+
+#sec{
+    background-image: url(../img/arno-dorian-assassins-creed-unity-34376-1366x768.jpg);
+    height: 650px;
+    padding-top: 3px;
+
+}
+.psp{
+    width: 40%;
+    margin-left: 35%;
+}
+.par, p{
+    /* width: 60%;
+    margin-right: 20%; */
+
+}
+
+img{
+    width: 40%;
+    /* position: absolute; */
+    margin-left: 30%;
+    clear: right;
+}
+p :hover:{
+    transform: scale(1.05);
+}
+
+#chec .buty a{
+    /* width: 100%; */
+    background-color: darkcyan;
+    color: blueviolet;
+    /* height: 100px; */
+    text-align: center;
+}
+
+#chec{
+    background-image: url(../img/arno-dorian-assassins-creed-unity-31903-1366x768.jpg);
+    height: 500px;
+    padding-top: 3px;
+    
+}
+
+.buty{
+    height: 100px;
+}
+
+.bkh{
+    background-color: aqua;
+}
+
+#barg{
+    background-image: url(../img/408539.jpg);
+    height: 500px;
+    padding-top: 20px;
+}
+.snap p{
+    text-align: center;
+}
+
+.snap img{
+    width: 40%;
+}
+
